@@ -1,6 +1,8 @@
+![](http://i.imgur.com/OUkLi.gif)
 <div align="center">
   <div id="header">
-    <img src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47gr7nbqqfq3z1qvri7jcbb7qlf7wk8p9x2u0kg2j5&rid=giphy.gif&ct=s" width="200"/>
+    ![](http://i.imgur.com/OUkLi.gif)
+    <img src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47gr7nbqqfq3z1qvri7jcbb7qlf7wk8p9x2u0kg2j5&rid=giphy.gif&ct=s" width="200" play/>
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jamesserra4/">
