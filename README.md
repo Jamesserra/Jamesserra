@@ -20,16 +20,6 @@
   </h1>
 </div>
 
-
-<h3>
-👨‍💻 About Me :
-</h3>
-
-  - 🔭 I am a Project Coordinator who loves the entire process of developing creative websites! 💻
-  - 🌱 I’m currently learning about React Custom Hooks
-  - 🤝 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-jamesserra4-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamesserra4/)
-  - ⚡ Fun fact: I have never broken a bone  
-  
 <h3>
 🛠 Languages and Tools:
 </h3>
